@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/fatih/Projects/api-desis/api-desis/api-desis.csproj": {}
+    "/Users/fatih/Documents/GitHub/kv-desis-api/api-desis/api-desis.csproj": {}
   },
   "projects": {
-    "/Users/fatih/Projects/api-desis/api-desis/api-desis.csproj": {
+    "/Users/fatih/Documents/GitHub/kv-desis-api/api-desis/api-desis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/fatih/Projects/api-desis/api-desis/api-desis.csproj",
+        "projectUniqueName": "/Users/fatih/Documents/GitHub/kv-desis-api/api-desis/api-desis.csproj",
         "projectName": "api-desis",
-        "projectPath": "/Users/fatih/Projects/api-desis/api-desis/api-desis.csproj",
+        "projectPath": "/Users/fatih/Documents/GitHub/kv-desis-api/api-desis/api-desis.csproj",
         "packagesPath": "/Users/fatih/.nuget/packages/",
-        "outputPath": "/Users/fatih/Projects/api-desis/api-desis/obj/",
+        "outputPath": "/Users/fatih/Documents/GitHub/kv-desis-api/api-desis/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/fatih/.nuget/NuGet/NuGet.Config"
