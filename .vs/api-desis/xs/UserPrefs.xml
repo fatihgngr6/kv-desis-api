@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{6EC97122-2552-4496-83E5-5A81011F248F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="api-desis/Program.cs">
+    <Files>
+      <File FileName="api-desis/appsettings.json" Line="3" Column="20" />
+      <File FileName="api-desis/Program.cs" Line="10" Column="35" />
+      <File FileName="api-desis/Controllers/DesisApiController.cs" Line="1" Column="1" />
+      <File FileName="api-desis/DesisEfCore/DesisComment.cs" Line="24" Column="1" />
+      <File FileName="api-desis/DesisEfCore/DesisUser.cs" Line="19" Column="69" />
+      <File FileName="api-desis/DesisEfCore/DesisEntry.cs" Line="16" Column="69" />
+      <File FileName="api-desis/DesisEfCore/DesisRating.cs" Line="10" Column="23" />
+      <File FileName="api-desis/DesisEfCore/EF_DataContext.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="api-desis" expanded="True">
+            <Node name="api-desis" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DesisEfCore" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.api-desis PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
